@@ -78,6 +78,19 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 ![311571245-6683e6be-3bfe-4464-bcef-eddda36d3c5b](https://github.com/SriSaiPriyaSenthilvel/EXNO2DS/assets/119475702/d228710b-5b5c-4b7e-acee-f2fa057382f1)
 
+![311571312-814e1325-cb3f-46fe-9038-dabc4c9448ea](https://github.com/SriSaiPriyaSenthilvel/EXNO2DS/assets/119475702/95ef69b1-2c6d-425c-af5a-6bf41a932ad9)
+
+![311571370-1722f8d6-8c25-4354-bce6-d08001bd9ae1](https://github.com/SriSaiPriyaSenthilvel/EXNO2DS/assets/119475702/141b8bb2-7660-49c1-a29c-a0fe6c040e82)
+
+![311571417-cc0dd8f6-211f-4df4-9aaa-926e0e014a7c](https://github.com/SriSaiPriyaSenthilvel/EXNO2DS/assets/119475702/68b9c253-3bfa-4d67-ab87-747d45d00d6d)
+
+![311571505-0d987150-88ad-456a-99f3-5e88b0bbd05a](https://github.com/SriSaiPriyaSenthilvel/EXNO2DS/assets/119475702/97e89bd4-b28d-4033-88ce-55854bb7cccf)
+
+![311571579-c434a2f2-1d7b-4261-ba58-4f81d781b817](https://github.com/SriSaiPriyaSenthilvel/EXNO2DS/assets/119475702/87343812-1dc2-426b-9a50-bc2de8e4ad85)
+
+![311571638-215d8b3c-5cbe-4824-84dc-cecc96697d83](https://github.com/SriSaiPriyaSenthilvel/EXNO2DS/assets/119475702/2deb44b0-21fc-442b-8ea4-15c97414e6ed)
+
+![311571707-9e3dac99-f9cb-4cbe-a1e1-2888fc7439ce](https://github.com/SriSaiPriyaSenthilvel/EXNO2DS/assets/119475702/6614b82b-5d21-42fc-8d51-5c71bc6d5d9f)
 
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+Thus the program to perform Exploratory Data Analysis on the given data set is successfully implemented.
