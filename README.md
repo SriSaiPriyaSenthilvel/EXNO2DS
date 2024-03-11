@@ -66,6 +66,18 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 ![311570818-58f0d1ea-6463-4c65-8e7b-cc51cd7abea1](https://github.com/SriSaiPriyaSenthilvel/EXNO2DS/assets/119475702/dd5ed372-832b-4a5f-b421-58042005ab47)
 
+![311570902-bfa1678d-abaf-4a6d-bd61-83509727af37](https://github.com/SriSaiPriyaSenthilvel/EXNO2DS/assets/119475702/f28b5373-4c17-4dc8-bd57-ea57e27dc327)
+
+![311570945-6a5ee9b0-f3b4-44b9-8a24-e19a8fa7faa3](https://github.com/SriSaiPriyaSenthilvel/EXNO2DS/assets/119475702/84d15544-91e4-4f9c-be4a-2a50a1427025)
+
+![311570999-c9351d65-feb5-4474-938a-915c0369a237](https://github.com/SriSaiPriyaSenthilvel/EXNO2DS/assets/119475702/98edbf3a-7788-45c8-9e79-190610735100)
+
+![311571136-3e316049-0fa0-4186-9913-a3563ae4412e](https://github.com/SriSaiPriyaSenthilvel/EXNO2DS/assets/119475702/18492760-4282-4249-bd68-f572e41361db)
+
+![311571197-bb49ea76-2219-4b0d-a9ba-384df1a4a682](https://github.com/SriSaiPriyaSenthilvel/EXNO2DS/assets/119475702/7684689f-85bb-453f-8d4e-b8f9b9e1a94d)
+
+![311571245-6683e6be-3bfe-4464-bcef-eddda36d3c5b](https://github.com/SriSaiPriyaSenthilvel/EXNO2DS/assets/119475702/d228710b-5b5c-4b7e-acee-f2fa057382f1)
+
 
 # RESULT
         <<INCLUDE YOUR RESULT HERE>>
